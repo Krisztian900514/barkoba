@@ -1,3 +1,4 @@
 Állat=?
 Farkas
 Autó?
+Nem
