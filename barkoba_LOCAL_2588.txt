@@ -1,0 +1,15 @@
+Állat=?
+Farkas
+Autó?
+Nem
+Oké. gondolj valamire.tárgy?
+Igen
+informatikával kapcsolatos?
+Nem
+elektronikai cikk??
+Igen és egy mindennapi eszköz
+Telefonálásra is használjuk?
+Igen és így már szinte meg is van :D
+**Szabad a gazda? Akkor mobiltelefon? :D**
+Talált, süllyedt :D
+valami random beírás
